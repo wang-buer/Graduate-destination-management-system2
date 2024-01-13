@@ -1,10 +1,10 @@
-# 毕业生去向管理系统
+# 毕业生去向管理系统2
 
 ## 获取方式
 
-扫描下方，回复关键词  ：**毕业生2** ，获取完整版源码
+下方扫一扫关注后，后台回复关键词：**毕业生**，查看导入教程视频、sql脚本和源码等
 
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -35,43 +35,35 @@
 
 ### 4.1 登录
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207200031456.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202207200031456.jpg)
 
-![注册](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207200031015.jpg)
+![注册](https://www.codeshop.fun/Typora-Images/202207200031015.jpg)
 
 ### 4.2 管理员模块
 
-![管理员-维护公告](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207200031550.jpg)
+![管理员-维护公告](https://www.codeshop.fun/Typora-Images/202207200031550.jpg)
 
-![管理员-企业信息维护](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207200031285.jpg)
+![管理员-企业信息维护](https://www.codeshop.fun/Typora-Images/202207200031285.jpg)
 
-![管理员-学生管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207200031346.jpg)
+![管理员-学生管理](https://www.codeshop.fun/Typora-Images/202207200031346.jpg)
 
-![管理员-招聘投递查看](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207200031455.jpg)
+![管理员-招聘投递查看](https://www.codeshop.fun/Typora-Images/202207200031455.jpg)
 
-![管理员-招聘信息管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207200031941.jpg)
+![管理员-招聘信息管理](https://www.codeshop.fun/Typora-Images/202207200031941.jpg)
 
 ### 4.3 公司模块
 
-![公司-查看应聘信息](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207200032953.jpg)
+![公司-查看应聘信息](https://www.codeshop.fun/Typora-Images/202207200032953.jpg)
 
-![公司-添加招聘信息](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207200032843.jpg)
+![公司-添加招聘信息](https://www.codeshop.fun/Typora-Images/202207200032843.jpg)
 
-![公司-维护招聘信息](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207200032851.jpg)
+![公司-维护招聘信息](https://www.codeshop.fun/Typora-Images/202207200032851.jpg)
 
 ### 4.4 学生模块
 
-![学生-查看公告信息](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207200032263.jpg)
+![学生-查看公告信息](https://www.codeshop.fun/Typora-Images/202207200032263.jpg)
 
-![学生-查看招聘信息](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207200032641.jpg)
+![学生-查看招聘信息](https://www.codeshop.fun/Typora-Images/202207200032641.jpg)
 
-![学生-招聘详情](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207200032455.jpg)
-
-## 5、获取方式
-
-扫描下方，回复关键词  ：**毕业生2** ，获取完整版源码
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+![学生-招聘详情](https://www.codeshop.fun/Typora-Images/202207200032455.jpg)
 
